@@ -1,3 +1,7 @@
+## AUTOSENS REPO
+
+This was the code used for AUTOSENS demo shown in the slides.
+
 ## Video Generation
 
 To generate videos, run the script corresponding to the desired model:
@@ -11,4 +15,3 @@ python3 videoA.py
 ```bash
 python3 videoA.py
 ```
-
